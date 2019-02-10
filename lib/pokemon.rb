@@ -6,4 +6,6 @@ class Pokemon
     @id, @name, @type, @db = id, name, type, db
   end
   
+  def save
+  
 end
